@@ -1,0 +1,52 @@
+img {
+    max-width: 350px;
+    max-height: 350px;
+    text-align: center;
+}
+
+
+
+@media (max-width: 768px) {
+    .col-xs-12.text-right, .col-xs-12.text-left {
+            text-align: center;
+     } 
+  }
+
+  *{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+    
+}
+
+.container-fluid{
+    background-color: #198754;
+}
+
+h1{
+    color:black;
+    
+}
+
+.title{
+    text-decoration: underline;
+}
+
+#link{
+    background-color: red;
+  color: white;
+  padding: 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+
+body{
+    background-color:#198754;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+}
